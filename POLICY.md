@@ -18,7 +18,7 @@ This email request is required to ensure that the user is aware of the terms of 
 # 4. Attribution Requirement
 When redistributing the software (either in its original form or after modifications), you must include the following:
 
-The copyright notice: "Copyright (c) 2025 MEGAqx123"
+The copyright notice: "Copyright © 2025 MEGAqx123"
 The license text: This permission notice must be included with the software, whether in the source code or in documentation associated with the software.
 This ensures that credit is given to the original author of the software.
 
